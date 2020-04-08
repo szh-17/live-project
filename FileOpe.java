@@ -57,4 +57,4 @@ public class FileOpe {
         pps.setProperty(account,password+"#"+name+"#"+dept);
         listInfo();
     }
-}
+} 
